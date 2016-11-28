@@ -17,18 +17,7 @@ html {
 .navbar {
     background: linear-gradient(to bottom, #7C92BA, #7488AF);
 }
-
-.navbar-default .navbar-brand {
-    color: #d6d6d6;
-    font-family: 'Squada One';
-    font-weight: bolder;
-    font-size: 39px;
-    /*line-height: 58px;
-    vertical-align: bottom;
-    text-align: left;
-    cursor: default;*/
-}
-
+/*
 .navbar-default .navbar-nav a:link {
     background: linear-gradient(to bottom, #7488AF, #5f6f8d);
     border-bottom-width: 4px;
@@ -45,11 +34,12 @@ html {
     font-family: 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Ubuntu', sans-serif;
     font-weight: bolder;
     font-size: 22px;
-        /*line-height: 58px;
-    vertical-align: bottom;
-    text-align: left;
-    cursor: default;*/
+    //line-height: 58px;
+    //vertical-align: bottom;
+    //text-align: left;
+    //cursor: default;
 }
+*/
 
 @media(min-width:767px) {
     .navbar {
@@ -69,29 +59,36 @@ The padding is very important to make sure the scrollspy picks up the right area
 of those sections to manage the look and feel of the site. */
 
 .intro-section {
-    height: 100%;
-    padding-top: 150px;
+
+    /*background: -webkit-linear-gradient(top, rgba(255,0,255,0) 0%,rgba(255,255,255,1) 100%), url('/img/bones_seeds_apples_books.png');*/
+
+    height: 86%;
+    margin-top:2px;
+    padding-top: 90px;
     text-align: center;
-    background: #fff;
+    /*background: #fff;*/
 }
 
 .about-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 86%;
+    margin-top: 2px;
+    padding-top: 90px;
     text-align: center;
-    background: #eee;
+    /*background: #eee;*/
 }
 
 .services-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 86%;
+    margin-top: 2px;
+    padding-top: 90px;
     text-align: center;
-    background: #fff;
+    /*background: #fff;*/
 }
 
 .contact-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 86%;
+    margin-top: 2px;
+    padding-top: 90px;
     text-align: center;
-    background: #eee;
+    /*background: #eee;*/
 }
