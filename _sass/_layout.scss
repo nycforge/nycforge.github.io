@@ -10,38 +10,14 @@ $bgDefault: #e74c3c;
 $bgHighlight: #c0392b;
 $colDefault: #F2F6FF;
 $colHighlight: #ffbbbc;
-// border-left: 0px;
-// border-bottom: 5px;
-// border-top: 0px;
-// border-right: 0px;
-// padding-left: 18px;
-// padding-right: 18px;
-// padding-top: 4px;
-// padding-bottom: 6px;
-// border-style: solid;
-// vertical-align: middle;
-// margin: 0px;
-// margin-top: -8px;
-// text-align: center;
-// font-size: 1.1em;
-// font-weight: bold;
-// display: inline-block;
-// /* margin-bottom: 32px; */
-// /* margin-top: 0px; */
-// background-color: #7488AF;
-// border-color: #55647F;
-// color: #F2F6FF;
-// transition: background-color .2s, border-color .2s, color .2s, text-shadow .2s ease-in;
 
-.navbar-default {
-    background-color: $bgDefault;
-    border-color: $bgHighlight;
-
+.navbar {
     .navbar-brand {
+        position: absolute;
         color: $colDefault;
-        font-family: 'Squada One';
+        font-family: $title-secondary-font-family;
         font-weight: bolder;
-        font-size: 39px;
+        font-size: 80px;
         color: #d6d6d6;
         cursor: default;
 
@@ -49,21 +25,42 @@ $colHighlight: #ffbbbc;
         &:focus {
             color: $colHighlight;
         }
-
+        
+        > span {
+            position:absolute;
+            margin-top:-24px;
+            margin-left:20px;
+            color: #000000;
+            font-family: $title-font-family;
+            font-weight: 400;
+            font-size: 38px;
+            opacity:.8;
+            text-shadow: -1px 2px 0px rgba(255, 204, 51, .7);
+            z-index: 1;
+        }
     }
 
-    .navbar-text {
-        color: $colDefault;
-        font-family: 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Ubuntu', sans-serif;
-        font-weight: bolder;
-        font-size: 22px;
-    }
-
-    .navbar-nav {
+    .nav-sam {
+        font-family: $header-font;
+        text-align:center;
         > li {
+
+            float:none;
+            display:inline-block;
+            *display:inline; /* ie7 fix */
+            *zoom:1; /* hasLayout ie7 trigger */
+            vertical-align: top;
+
             > a {
+                display: inline-block;
+                
+                background-color: #7488AF;
+                border-color: #55647F;
+                // color: #F2F6FF;
+
                 border-left-width: 0px;
                 border-bottom-left-radius: 5px;
+                
                 // padding-left: 24px;
                 border-left: 0px;
                 border-bottom: 5px;
@@ -78,13 +75,11 @@ $colHighlight: #ffbbbc;
                 vertical-align: middle;
                 margin: 0px;
                 margin-top: 6px;
-                text-align: center;
+    
                 font-size: 1.1em;
                 font-weight: bold;
-                display: inline-block;
-                background-color: #7488AF;
-                border-color: #55647F;
-                color: #F2F6FF;
+                
+
                 transition: background-color .2s, border-color .2s, color .2s, text-shadow .2s ease-in;
 
                 &:hover,
@@ -190,16 +185,17 @@ $colHighlight: #ffbbbc;
             } 
         }         
 
-        // > .active {
-        //         > a,
-        //         > a:hover,
-        //         > a:focus {
-        //                 color: $colHighlight;
-        //                 background-color: $bgHighlight;
+        > .active {
+                > a,
+                > a:hover,
+                > a:focus {
+                        color: #000000;
+                        // color: $colHighlight;
+                        // background-color: $bgHighlight;
                 
-        //     }
+            }
  
-        // }
+        }
 
         // > .open {
         //         > a,
@@ -275,16 +271,61 @@ $colHighlight: #ffbbbc;
 .about-section,
 .services-section,
 .contact-section {
-    .container .row div {
-        background-image: $bones_seeds_apples_books;
-        background-position: left top;
-        background-repeat: repeat;
-        border: 1px solid black;
-        border-radius: 25px;
-        box-shadow: 0 0 2px 2px white inset;
-    }
+    // .container .row div {
+    //     background-image: $bones_seeds_apples_books;
+    //     background-position: left top;
+    //     background-repeat: repeat;
+    //     border: 1px solid black;
+    //     border-radius: 25px;
+    //     box-shadow: 0 0 2px 2px white inset;
+    // }
 
 }
+
+.content {  position: relative; }
+
+.content:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-image: $bones_seeds_apples_books;
+    background-position: left top;
+    background-repeat: repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    box-shadow: 0 0 2px 2px white inset;
+    opacity: 0.8;
+}
+
+.content div{
+    background-image: none;
+    position: relative; 
+    z-index: 2;
+    .sam-section {
+        background-image: none;
+        position: relative; 
+        z-index: 2;
+        // opacity: 0.5;
+        color: #000000;
+        margin: 10px;
+        padding-top: 12px;
+        padding-bottom: 1px;
+
+        padding-left: 20px;
+        padding-right: 20px;
+        
+        border-radius: 2px;
+        background: url(/img/bglines.png);
+        box-shadow: 0 0 0 1px #000000, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+        // text-shadow: -1px -1px #aa3030;
+        // background-color: rgba(204,155,106, 1);
+    }    
+}​
+
 
 .site-header {
     border-top: 5px solid $grey-color-dark;
