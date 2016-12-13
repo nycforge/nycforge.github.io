@@ -1,0 +1,34 @@
+nguage: node_js
+sudo: required
+script:
+  - ./_scripts/run-tests.sh
+branches:
+  except:
+  - master
+node_js:
+ - '6.1'
+before_install:
+  - if [[ `npm -v` != 3* ]]; then npm i -g npm@3; fi
+  - rvm install 2.1
+  - rvm use 2.1
+  - . $HOME/.nvm/nvm.sh && nvm install 6.1 && nvm use 6.1
+  - gem install bundler
+  - bundle check || bundle install
+
+env:
+  global:
+  - secure: Ntcqs5tFenXtCdbiyk6u3rKOIIUkyiJ9r1zr/OSnej0atPNY9jb8aXHiLxvXpeq6vJmCjx1l8Ht1pBOKwHhQx+1h+Yat+9caRb6n76zcEIPOG/spb9UI3MDQt0+LbLoujOuFS3yVNn9INBC5AOYUu2JX9+2PbC8uhEdRR4I3gdTEiSJK6k7fcpDzSVOLOQxoRZVc9VLiHKmj2vy+JAl5iGaqB7wfBk+K4n9muOBJA+v833b3xgWhupkgzHCZi5d3ZMg0c6L4A9O54VaISNzZQdEERQN6mP/f/DQwO9vLaK5vF5x+XIMiS+vKTkWIvRB10Qbvi2hGfxLqJTiMl0FpS3ghBE/zz1YiUk/zJcQPI+yqj0wku2AOzeLc5MGg0bh9yjeX9WjaIEyyfFJIl+jJCxlpDrNi5ldx70KPJzM4E94J4i2J4963Yy4+HDAvn9awyXCHlsokXK01vaC3E+hDynPy90c0yvUyEVvivhh/GPOxzKxqprt4KqcB4Y4qvNINXdlntfTvG06NDiXj86wNlOzB3cc+v8TKBminCmQnw2lbyV2mOXzIGXgeDizJ+uU+5J7ZfM68ONZFm3Mn+DGNuTkeqNNRtNh9h5jyka4OvQt2tdJqapU7vvDY36alUuU3gmXtUUhh+C+G+9BhXjuUWbMUlCwt3hX9pcozbB0BGtE=
+  - secure: l+tgrSVK0stJhBqfXPvyQEgS3RCKVXBcAEuJyzsBDL/XOg8Lt3Vl2UcVwXdvWAFGF1Ec5KYIG/INnra0wXj/VqtiAH4fAEJ1+Y6By47/Mzvpav2EBkpErDI55YOt1U3JvDWq7AuMuDvFIaXf2r9B23stpjH01DDUW3OQIdPGUXDlPuwE5s/tMUjHcMC/IgsEba3E4Y4wrRchB6lRzC4LLl1anEi47r5YX+cjxSBwTPJlsN7E7pR6kZ42QxYL/jgJ/MVZu9QxK0l8GSNi+wqdHwzl/TctZEOVNW8Mkzpi+25Yolbnni7irinP4vyrg+XkliEt3iktARBEteP7ZZWOm5IqXTReFGYsATJktseISzE0P/2ucWEzsFpAa3uR2+qEXJiLWhQt7CKLOmgCPP1851SBYg6gT8SjTCMtjbSpFPpkOTXEBsrvO8ttO9D7QRIImpFIGGpSbIPKrdgGb0jwnVQgEu4VmYUBLVJ3/4arb9Z62G9IDTaXF2+RSET8fhjGdztyr0g0k+Q6J4X5N8aXft8OvTf2UwVIlNpzgN13vpqPwSBT7mQhRl19QnCirVKfdKu1XI9p1haBPM833gUgqBFdBRwJ44SWywcxV/rAAZWmcbh88IytzbZf5SoPLXy8J3M7KxFdaQUMHBAYaZyzONtSpn1DcaSW9pMxR+AFbzg=
+
+# Keep Travis from testing `master` branch
+branches:
+  except:
+  - master
+
+# Deployment config
+deploy:
+  provider: script
+  script: "./_scripts/build.sh"
+  skip_cleanup: false
+  on:
+    branch: source
