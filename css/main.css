@@ -35,6 +35,7 @@ ul, ol, dl, figure,
  *SAM
  */
 h3 {
+  margin-top: 44px;
   color: #000000;
   font-family: "Roboto Slab", serif;
   text-align: center;
@@ -297,10 +298,9 @@ pre {
   background-image: url("/img/bones_seeds_apples_books.png");
   background-position: left top;
   background-repeat: repeat;
-  border: 1px solid;
-  border-radius: 25px;
-  box-shadow: 0 0 2px 2px white inset;
-  opacity: 0.8; }
+  border-radius: 15px;
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+  opacity: .7; }
 
 .content div {
   background-image: none;
@@ -317,8 +317,8 @@ pre {
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 2px;
-    background: url(/img/bglines.png);
-    box-shadow: 0 0 0 1px #000000, 2px 1px 6px 4px rgba(10, 10, 0, 0.5); }
+    background: url(/img/bglines_op80.png);
+    box-shadow: 0 0 0 0px #000000, 2px 2px 2px 2px rgba(10, 10, 0, 0.5); }
 
 ​
 .site-header {
