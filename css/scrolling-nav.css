@@ -62,33 +62,25 @@ of those sections to manage the look and feel of the site. */
 
     /*background: -webkit-linear-gradient(top, rgba(255,0,255,0) 0%,rgba(255,255,255,1) 100%), url('/img/bones_seeds_apples_books.png');*/
 
-    height: 86%;
     margin-top:2px;
-    padding-top: 90px;
+    padding-top: 50px;
+    /*padding-top: 110px;*/
     
     /*background: #fff;*/
 }
 
-.about-section {
-    height: 86%;
+.our-services-section {
     margin-top: 2px;
-    padding-top: 90px;
+    padding-top: 50px;
+    /*padding-top: 110px;*/
     
-    /*background: #eee;*/
-}
-
-.services-section {
-    height: 86%;
-    margin-top: 2px;
-    padding-top: 90px;
-    
-    /*background: #fff;*/
+    /*background: #eee*/
 }
 
 .contact-section {
-    height: 86%;
     margin-top: 2px;
-    padding-top: 90px;
+    padding-top: 50px;
+    /*padding-top: 110px;*/
     
-    /*background: #eee;*/
+    /*background: #fff;*/
 }

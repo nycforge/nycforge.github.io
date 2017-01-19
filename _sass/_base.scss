@@ -41,7 +41,8 @@ ul, ol, dl, figure,
  *SAM
  */
 h3 {
-    // color: #000000;
+    margin-top: 44px;
+
     // font-weight: bold;    
     color: #000000;
     font-family: $header-font;
@@ -49,6 +50,10 @@ h3 {
     text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
 }
 
+p {
+    // line-height: 21.6px;
+    // word-wrap: break-word;
+}
 /**
  * Images
  */
