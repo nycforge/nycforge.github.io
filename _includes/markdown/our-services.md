@@ -18,4 +18,6 @@ If at any point they want me to come back and fix additional issues they are hav
 
 Two sides of a business card. Front side identifying with parent lack of ability to troubleshoot mod/mc issues. Back side catches eye of kid/gamer-youth. Totally minecraft relatable.
 
+WHAT COMES NEXT???
+
 </div>
