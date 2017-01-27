@@ -11,8 +11,9 @@ $(window).scroll(function() {
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
+        var adjustToSection = $($anchor.attr('href')).offset().top - 60;
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
+            scrollTop: adjustToSection
         }, 700, 'swing');
         event.preventDefault();
     });

@@ -241,7 +241,14 @@ $colHighlight: #ffbbbc;
 
 }
 
+.intro-section {
+    padding-top: 74px;
+}
+
 @media (max-width:767px) {
+    .intro-section {
+        padding-top: 0px;
+    }
     .navbar-default .navbar-nav .open .dropdown-menu {
         > li > a {
             color: $colDefault;

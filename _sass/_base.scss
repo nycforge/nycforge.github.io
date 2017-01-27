@@ -40,14 +40,31 @@ ul, ol, dl, figure,
 /**
  *SAM
  */
-h3 {
+h2 {
     margin-top: 44px;
-
     // font-weight: bold;    
     color: #000000;
     font-family: $header-font;
     text-align: center;
     text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
+}
+
+h4 {
+    margin:19px 0px 28px 0px;
+    // font-weight: bold;    
+    color: #000000;
+    font-family: $header-font;
+    text-align: center;
+    // text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
+}
+
+hr.style14 { 
+  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone);
+  background-image: -moz-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone);
+  background-image: -ms-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone);
+  background-image: -o-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone); 
 }
 
 p {
