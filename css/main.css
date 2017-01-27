@@ -34,12 +34,26 @@ ul, ol, dl, figure,
 /**
  *SAM
  */
-h3 {
+h2 {
   margin-top: 44px;
   color: #000000;
   font-family: "Roboto Slab", serif;
   text-align: center;
   text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3); }
+
+h4 {
+  margin: 19px 0px 28px 0px;
+  color: #000000;
+  font-family: "Roboto Slab", serif;
+  text-align: center; }
+
+hr.style14 {
+  border: 0;
+  height: 1px;
+  background-image: -webkit-linear-gradient(left, #e3e0df, #8c8b8b, #e3e0df);
+  background-image: -moz-linear-gradient(left, #e3e0df, #8c8b8b, #e3e0df);
+  background-image: -ms-linear-gradient(left, #e3e0df, #8c8b8b, #e3e0df);
+  background-image: -o-linear-gradient(left, #e3e0df, #8c8b8b, #e3e0df); }
 
 /**
  * Images
@@ -274,7 +288,13 @@ pre {
   .navbar .navbar-link:hover {
     color: #ffbbbc; }
 
+.intro-section {
+  padding-top: 74px; }
+
 @media (max-width: 767px) {
+  .intro-section {
+    padding-top: 0px; }
+
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #F2F6FF; }
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
