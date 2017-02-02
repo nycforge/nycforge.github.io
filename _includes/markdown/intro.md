@@ -1,26 +1,25 @@
 <!-- https://www.drewsilcock.co.uk/custom-jekyll-plugins -->
 
+<!-- <div class="sam-section" style="margin:10px 50px 40px 50px" markdown="1"> -->
+
 ##Minecraft and the Forge mod loader
 
-<!-- <div class="sam-section" style="margin:10px 50px 40px 50px" markdown="1"> -->
-<!-- ####Minecraft and the Forge mod loader -->
-<!-- <hr class="style14"> -->
+Our mission is to make parents more knowledgeable and confident about configuring and modifying their Minecraft setup at home. The ideal setup for most players will have an installation of [Forge](https://files.minecraftforge.net/) - the popular mod loader for Minecraft that enables their kids to run mods that they download from the internet. 
 
-Our mission is to make parents more knowledgable and confident about configuring and modifying their Minecraft setup at home. The ideal setup for most players will have an installation of [Forge](https://files.minecraftforge.net/) - the popular mod loader for Minecraft that enables their kids to run mods that they download from the internet. 
-
-_If at any point, you feel overwhelmed or confused by any of the lingo, look to the great resources for parents section of this website_
+This site will use Minecraft terminology/language in order to be concise. Check out the [resources for parents]() section which includes links to many other great starting points for people getting into Minecraft.
 
 <!-- </div>
 
-####Taking the first steps to understand the world of Minecraft. 
-
 <div class="sam-section" style="margin:10px 50px 40px 50px" markdown="1"> -->
 
-<hr class="style14">
+<hr class="btwnParRule">
 
-####take the first steps to understand the world of Minecraft
+<h3 class="btwnParHeader">Take the first steps to understand the world of Minecraft</h3>
 
-Considering that steep learning-curves can greatly weigh in on parents' willingness to learn about Minecraft tech, we suggest exploring this site to better determine your/the Minecraft needs at home.
+<!-- Considering that steep learning curves can greatly weigh in on parents' willingness to learn about Minecraft tech, ... -->
+
+Minecraft's steep learning curve can easily deter parents from becoming more 
+invested in attaining a proper setup. We strongly suggest exploring this site to better determine your Minecraft needs at home.
 
 We provide __[free first-time apointments](#services)__ to encourage parents to take action. Parents and kids should find common ground in their understanding of Minecraft. Don't be ashamed to become enthralled with what was seemingly a child activity; many adults play Minecraft (competively/seriously), just take a look at streamers on Twitch! Enter the Minecraft world observantly and expect to demystify terminology and technology piece by piece.
 

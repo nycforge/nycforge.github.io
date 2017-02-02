@@ -1,49 +1,79 @@
 <!-- https://www.drewsilcock.co.uk/custom-jekyll-plugins -->
 
-##Our Services
+##Services
+
+<h3 class="btwnParHeader">Schedule a home visit/appointment today!</h3>
 
 <!-- use this for titles outside divs -->
 <!-- <div class="sam-section" markdown="1"> -->
 
-<!-- <b>Our Services</b> -->
+To moms or dads...
+This service is a Minecraft repair service. We're here to take away much of your frustrations. No longer will you have to scour the internet for days on end, only coming up with a few sloppily written forum post failing to give a thorough explaination of the issue you're experiencing.
 
-<!-- ####Our Services -->
-<!-- <hr class="style14"> -->
+We'll travel throughout Brooklyn or Manhattan to setup your computer (mac or pc) so that it works flawlessly with any Minecraft mods. Think of me as an on-call Minecraft technician.
+
+This service is helps to enable parents feel more comfortable making modifications to their kids' Minecraft setup. Once their setup is fixed to run modifications they can sit back and relax as their kid plays. The experience of playing modded Minecraft greatly enhances the game. Minecraft modability is one of the game's biggest trademarks; it's what keeps the game alive, bringing many of the more mature players always coming back for more.
+
+<!-- If your kids aren't getting to experience the luxuries of modded Minecraft - for instance, the advanced [let's plays](https://www.youtube.com/watch?v=DFBkUc6tAPk) or [mod spotlights](https://www.youtube.com/watch?v=bMmto9lZi5I) from direwolf20 - then maybe we can help... -->
+
+<!-- I am available to help with obtaining and installing any applications/software/tools/utilities/necessities relating to Minecraft:  -->
+<hr class="btwnParRule">
+<h3 class="btwnParHeader">What software will we install?</h3>
+
+First and foremost, your computer will need [Forge](https://files.minecraftforge.net/) installed, hence this site name ;) Once this is done, you or your kid can go and download mod files to add to the Minecraft mod folder. I'll can't stress the importance of these folder locations enough.
+
+__mac:__ ~/Library/Application Support/minecraft/mods
+
+__windows:__ %appdata%&#92;.minecraft&#92;
 
 
-If your kids aren't getting to experience the luxuries of modded Minecraft - for instance, the advanced [let's plays](https://www.youtube.com/watch?v=DFBkUc6tAPk) or [mod spotlights](https://www.youtube.com/watch?v=bMmto9lZi5I) from direwolf20 - then maybe we can help...
+
+If it helps, I'll make some shortcuts on your desktop so it's more easy to access this mod folder.
+
+We can help setup any other moded-launchers or modpacks as well. Some examples of these are: [Feed The Beast](https://www.feed-the-beast.com/), [Curse](https://www.curse.com/download), [Crazy Craft](http://test.voidswrath.com/voidlauncher/)
+
+Setting up skins and using skin editors is a breeze, we're happy to help with this! We'll also install any cool, community-created Minecraft maps.
+
+Lastly, if java difficulties are causeing you a headache, we'll remedy those too.
+
+_Just email us and let us know if you'll need any other Minecraft related downloads so that we are prepared to install them during your schedualed appointment._
 
 
-To moms or dads... I'll travel throughout Brooklyn or Manhattan to setup your computer (mac or pc) so that it works flawlessly with any Minecraft mods. Think of me as an on-call Minecraft technician. I am available to help with obtaining and installing any applications/software/tools/utilities/necessities relating to Minecraft: 
-
-* [Forge](https://files.minecraftforge.net/)
-* [MCEdit](http://www.mcedit.net/)
-* [Curse](https://www.curse.com/download)
-* [VoidLauncher](http://test.voidswrath.com/voidlauncher/)
-* [FeedTheBeast](https://www.feed-the-beast.com/)
-
-setting up skins and using skin editors:
-
+<!-- * [MCEdit](http://www.mcedit.net/)
 * [minecraftskins.com](http://www.minecraftskins.com/skin-editor/)
 * [minecraftskins.net](http://www.minecraftskins.net/skineditor)
 * [minecraft.novaskin.me](https://minecraft.novaskin.me/)
-
-downloading and setting up maps or other resources from sites such as:
-
 * [planetminecraft.com](http://www.planetminecraft.com/resources/projects/)
 * [minecraftsix.com](http://minecraftsix.com/category/minecraft-maps/)
-* [planetminecraft.com](http://www.planetminecraft.com/resources/projects/)
+* [planetminecraft.com](http://www.planetminecraft.com/resources/projects/)-->
 
 
-...and if java difficulties are causeing you a headache, I can assist with that as well.
+<hr class="btwnParRule">
+<h3 class="btwnParHeader">What will I need prior to my schedualed appointment?</h3>
 
-I am open to research and learn how to install other Minecraft releated tools that haven't already found their way to my list.
+Not much.. Just a computer and an internet connection. Oh yes, you'll also need Minecraft.
 
-If your son or daughter is a proficient typist and interested in learning how to make their own Minecraft mods (using the forge api and eclipse), I could setup a modding environment on your computer and give them a few beginner lessons in Minecraft coding.
+<hr class="btwnParRule">
+<h3 class="btwnParHeader">How much will the appointment cost?</h3>
 
-service specifics
+As stated earlier, we encourage parents to tryout this service by providing free apointments to new customers. Your first appointment is always free. 
 
-As stated earlier, we encourage parents to tryout this service by providing free apointments to new customers. to encourage parents to take action.
+After the first appointment, each appointment will cost $60. 
+
+<hr class="btwnParRule">
+<!-- <h3 class="btwnParHeader">How much will the appointment cost?</h3> -->
+
+Minecraft, along with all its mods, are wonderful social tools that help kids hone their minds to create and adapt to our rapidly growing tech world. It proves to be an incredible educational tool and it provides a great segway into more creative disiplines like design, 3d modeling, animation, illustration, and programming. [Why else would Microsoft bought Minecraft for 3 billion!]() 
+
+We hope to help parents appreciate Minecraft and we'd love to better their abilities to improve and maintain a working Minecraft setup. It's important for their kids to download and test out the latest mods.
+
+If you are at all concerned with your child's future and his or her ability to get job opportunities in programming or design, they should be having regular access to a computer, preferably doing something active (not just watching silly youtube videos or memes). In teaching, all too often we see kids that are banned from computer use at home. They type at much slower rates and computer time at school isn't enough to get them up to speed. As they go through grade-school, computers will be more dominate tool they use. Let's give them a headstart. Minecraft is fun and addicting, but it's incredibly stimulating and very engaging for kids to play. It helps them establish social interactions when playing online and it offers an endless world to create/craft/build complex structures and complex machines.
+
+<!-- Mavis Beacon?? -->
+
+
+
+<!-- If your son or daughter is a proficient typist and interested in learning how to make their own Minecraft mods (using the forge api and eclipse), I could setup a modding environment on your computer and give them a few beginner lessons in Minecraft coding. -->
 
 <!-- `I couldn't get away sooner because my new well was coming in at Coyote Hills and I had to see about it. That well is now flowing at two thousand barrels and it's paying me an income of five thousand dollars a week. I have two others drilling and I have sixteen producing at Antelope; so, ladies and gentlemen, if I say I'm an oil man, you will agree. Now, you have a great chance here, but bear in mind, you can lose it all if you're not careful. Out of all men that beg for a chance to drill your lots, maybe one in twenty will be oilmen; the rest will be speculators - that's men trying to get between you and the oilmen - to get some of the money that ought by rights come to you. Even if you find one that has money and means to drill, he'll maybe know nothing about drilling and he'll have to hire the job out on contract, and then you're depending on a contractor who'll rush the job through so he can get another contract just as quick as he can. This is... the way that this works.
 Man: Well, what is your offer? W-w-we're wasting time.
