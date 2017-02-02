@@ -48,7 +48,7 @@ h2 {
     text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
 }
 
-hr.style14 { 
+.style14 { 
   border: 0; 
   height: 1px; 
   background-image: -webkit-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone);
@@ -57,14 +57,14 @@ hr.style14 {
   background-image: -o-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone); 
 }
 
-hr.btwnParRule {
+.btwnParRule {
     margin-bottom: 24px;
     height: 12px;
     border: 0;
     box-shadow: inset 0 -12px 4px -10px rgba(0, 0, 0, 0.2);
 }
 
-h3.btwnParHeader {
+.btwnParHeader {
     margin: 24px 0px 15px 0px;
     // font-weight: bold;    
     // color: #000000;
@@ -73,7 +73,7 @@ h3.btwnParHeader {
     // text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
 }
 
-p, h3.btwnParHeader, h2, ul {
+p, .btwnParHeader, h2, ul {
     padding: 0px 20px 0px 20px;
 }
 
