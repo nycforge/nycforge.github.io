@@ -35,17 +35,10 @@ ul, ol, dl, figure,
  *SAM
  */
 h2 {
-  margin-top: 44px;
-  color: #000000;
+  margin: 24px 0px 20px 0px;
   font-family: "Roboto Slab", serif;
   text-align: center;
   text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3); }
-
-h4 {
-  margin: 19px 0px 28px 0px;
-  color: #000000;
-  font-family: "Roboto Slab", serif;
-  text-align: center; }
 
 hr.style14 {
   border: 0;
@@ -54,6 +47,18 @@ hr.style14 {
   background-image: -moz-linear-gradient(left, #e3e0df, #8c8b8b, #e3e0df);
   background-image: -ms-linear-gradient(left, #e3e0df, #8c8b8b, #e3e0df);
   background-image: -o-linear-gradient(left, #e3e0df, #8c8b8b, #e3e0df); }
+
+hr.btwnParRule {
+  margin-bottom: 24px;
+  height: 12px;
+  border: 0;
+  box-shadow: inset 0 -12px 4px -10px rgba(0, 0, 0, 0.2); }
+
+h3.btwnParHeader {
+  margin: 24px 0px 15px 0px; }
+
+p, h3.btwnParHeader, h2, ul {
+  padding: 0px 20px 0px 20px; }
 
 /**
  * Images
@@ -175,6 +180,9 @@ pre {
 /** 
 *SAM
 */
+@media (min-width: 768px) {
+  .container {
+    width: 750px; } }
 .navbar .navbar-brand {
   position: absolute;
   color: #F2F6FF;
@@ -334,8 +342,6 @@ pre {
     margin: 10px;
     padding-top: 12px;
     padding-bottom: 1px;
-    padding-left: 20px;
-    padding-right: 20px;
     border-radius: 2px;
     background: url(/img/bglines_op80.png);
     box-shadow: 0 0 0 0px #000000, 2px 2px 2px 2px rgba(10, 10, 0, 0.5); }
