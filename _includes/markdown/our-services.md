@@ -2,15 +2,36 @@
 
 ##Services
 
-<h3 class="btwnParHeader">Schedule a home visit/appointment today!</h3>
+<!-- <h3 class="btwnParHeader">Schedule a home visit/appointment today!</h3> -->
+
+<div id="HeaderImage">
+<h1 id="H1_1">Schedule a home visit/appointment today!</h1>
+</div>
+
+<div id="DIV_1">
+    <div id="DIV_2">
+        <h2 id="H2_3">
+            Quick and Easy Blender Lessons
+        </h2> Taking a course on creating a specific model is great. Gaining the fundamental knowledge needed to model anything is infinitely more valuable. Follow our Learning Flow and start building your own vision today. <a>Check out Introduction to Blender Learning Flow</a>
+    </div>
+    <div id="DIV_6">
+        <img src="img/icon_forge.png" alt="" id="IMG_7" />
+    </div>
+</div>
 
 <!-- use this for titles outside divs -->
 <!-- <div class="sam-section" markdown="1"> -->
 
-To moms or dads...
+Did you ever have a problem or issue with your setup and spend days searching for solutions? Only to come up with a few sloppily written and ill-explained posts? Here, we're offering a better alternative...
+
+Moms and Dads in New York City,
 This service is a Minecraft repair service. We're here to take away much of your frustrations. No longer will you have to scour the internet for days on end, only coming up with a few sloppily written forum post failing to give a thorough explaination of the issue you're experiencing.
 
-We'll travel throughout Brooklyn or Manhattan to setup your computer (mac or pc) so that it works flawlessly with any Minecraft mods. Think of me as an on-call Minecraft technician.
+We'll travel throughout Brooklyn or Manhattan to setup your Minecraft environment to play any mods flawlessly.
+
+We'll travel throughout Brooklyn or Manhattan to setup and maintain a working Minecraft environemnt on your computer, Mac or Windows! Our service will install a flawless Minecraft experience, allowing kids to play the latest and greatest Minecraft mods. Think of us as on-call Minecraft technicians.
+
+<!-- We'll travel throughout Brooklyn or Manhattan to setup your computer (mac or pc) so that it works flawlessly with any Minecraft mods. Think of me as an on-call Minecraft technician. -->
 
 This service is helps to enable parents feel more comfortable making modifications to their kids' Minecraft setup. Once their setup is fixed to run modifications they can sit back and relax as their kid plays. The experience of playing modded Minecraft greatly enhances the game. Minecraft modability is one of the game's biggest trademarks; it's what keeps the game alive, bringing many of the more mature players always coming back for more.
 

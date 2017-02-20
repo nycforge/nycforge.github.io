@@ -2,9 +2,17 @@
 
 <!-- <div class="sam-section" style="margin:10px 50px 40px 50px" markdown="1"> -->
 
-##Minecraft and the Forge mod loader
+![IMAGE ALT TEXT HERE](img/icon_forge.png)
 
-Our mission is to make parents more knowledgeable and confident about configuring and modifying their Minecraft setup at home. The ideal setup for most players will have an installation of [Forge](https://files.minecraftforge.net/) - the popular mod loader for Minecraft that enables their kids to run mods that they download from the internet. 
+##Minecraft and the Forge Mod Loader
+
+I've had many kids ask me during my afterschool teaching jobs/hours asking me how to install mods on their computer. Countless/dozens of times i hear kids say, "my parents won't let me download forge because they're afraid of our computer getting a virus". I'd like these kids to become more self sufficient and their parents to be more supportive of them going out and attempting to install forge on their own.
+
+dad > If you or someone at your home is working with Minecraft, then you already know that it's much more than a game. It's that, yes, but also an artistic experience, a problem-solving challenge, and an incredibly rich enivronment for creating and sharing ideas and modifications
+
+Our mission is to make parents more knowledgeable and confident about configuring and modifying their Minecraft setup at home.
+
+The ideal setup for most players will have an installation of [Forge](https://files.minecraftforge.net/) - the popular mod loader for Minecraft that enables their kids to run any mods that they download from the internet. 
 
 This site will use Minecraft terminology/language in order to be concise. Check out the [resources for parents]() section which includes links to many other great starting points for people getting into Minecraft.
 
@@ -17,6 +25,8 @@ This site will use Minecraft terminology/language in order to be concise. Check 
 <h3 class="btwnParHeader">Take the first steps to understand the world of Minecraft</h3>
 
 <!-- Considering that steep learning curves can greatly weigh in on parents' willingness to learn about Minecraft tech, ... -->
+
+dad > Some set out to improve their Minecraft setup, but are discouraed by the multitude of options or the unfamiliar terminology. We've built this site to explain, to simplify, and to guide.
 
 Minecraft's steep learning curve can easily deter parents from becoming more 
 invested in attaining a proper setup. We strongly suggest exploring this site to better determine your Minecraft needs at home.
