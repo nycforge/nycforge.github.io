@@ -41,23 +41,37 @@ ul, ol, dl, figure,
  *SAM
  */
 
+p, .btwnParHeader, h2, h3, ul {
+    padding: 0px 20px 0px 20px;
+}
+
 #HeaderImage {
-    width: 700px;
-    height: 320px;
-    position:relative;
+    max-width: 700px;
+    height: 130px;
+    // position:relative;
     // display: block;
+
+    //SAM: get to the bottom of this clip repeat nonsense!
     background: repeat url("/img/city/city3.png");
-    background-position: -20px -20px;
+    // background-position: -20px -20px;
 }
 
 #H1_1 {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    margin-bottom:0px;
-    width: 450px;
-    height:150px;
-    // height:100px;
+    //SAM: experiment
+    // position: absolute;
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    bottom:0%;
+    word-wrap: break-word;
+    display:inline;
+    font-size: 20px;
+    
+    min-width: 200px;
+    max-width: 600px;
+    
     font-family: $header-font;
     text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
     background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0% / auto padding-box border-box;
@@ -77,9 +91,12 @@ ul, ol, dl, figure,
 }
 
 #DIV_1 {
-    width: 700px;    
-    padding: 0px 20px 20px 20px;
-    margin: 0px 0px 10px;
+    max-width: 700px;    
+    // height:180px;
+    padding: 0px 20px 0px 20px;
+    //SAM: check margin-bottom spacing. Keep things consistant with these headers and images!
+    margin-bottom: 20px;
+    // margin: 0px 0px 10px;
     // overflow: hidden;
 
     box-sizing: border-box;
@@ -97,7 +114,7 @@ ul, ol, dl, figure,
 }
 
 #DIV_2 {
-    width: 470px;
+    max-width: 460px;
     box-sizing: border-box;
     // color: rgb(231, 231, 231);
     float: left;
@@ -111,10 +128,10 @@ ul, ol, dl, figure,
 }
 
 #H2_3 {
-    width: 450px;
     font-family: $header-font;
+    margin: 8px 0px 1px 0px;
     text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
-    
+    // margin: 0px 0px 0px 0px;
     box-sizing: border-box;
     // color: rgb(231, 231, 231);
     letter-spacing: 1px;
@@ -129,23 +146,14 @@ ul, ol, dl, figure,
 }
 
 #DIV_6 {
-
-    width: 100px;
-    // height: 100%;
-    min-height: 200px;
-    position: relative;
-    // margin: auto 0px auto 0px;
-    // margin-top: auto;
-    // margin-bottom: auto;
-    // padding: 20px 0px 20px 0px;
-    // margin-top: 100px;
+    // position: inherit;
+    // width: 200px;
+    min-width: 300px;
+    min-height: 50px;
 
     box-sizing: border-box;
     color: rgb(231, 231, 231);
     float: right;
-    
-    
-    
 
     column-rule-color: rgb(231, 231, 231);
     // perspective-origin: 235px 115.5px;
@@ -155,17 +163,22 @@ ul, ol, dl, figure,
 }
 
 #IMG_7 {
-    // position:absolute;
-    max-height: 100%;  
-    max-width: 100%; 
-    width: auto;
-    height: auto;
-    position: absolute;  
-    top: 0;  
+    //SAM: experiment
+
+    position:absolute;
+    // top: 0;  
     bottom: 0;  
-    left: 0;  
+    // left: 0;  
     right: 0;  
-    margin: auto;
+
+    // margin-top: 10px;
+    margin-right:-20px;
+    max-height: 98%;  
+    max-width: 98%; 
+    // width: auto;
+    // height: auto;
+    position: absolute;  
+    
     // width: 120px;
     // height: 120px;
     background-color: #FFF;
@@ -177,11 +190,9 @@ ul, ol, dl, figure,
     column-rule-color: rgb(231, 231, 231);
     // perspective-origin: 225px 113.062px;
     // transform-origin: 225px 113.062px;
-    border: 4px solid rgb(35, 39, 44);
+    border: 2px solid rgb(35, 39, 44);
     outline: rgb(231, 231, 231) none 0px;
 }
-
-
 
 img {
     display: block;
@@ -194,6 +205,105 @@ h2 {
     font-family: $header-font;
     text-align: center;
     text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
+}
+
+.headerglue {
+    //SAM: consistencies!
+    padding:20px 2px 30px 8px;
+}
+
+.quirkHeader {
+    // display: block;
+    // margin-top:-47px;
+    // position: absolute;
+    // font-family: $title-font-family;
+    text-transform: uppercase;
+
+    letter-spacing: 4px;
+    margin-top:-11px;
+    float:right;
+    // display:block;
+    font-family: $title-font-family;
+    font-size: 31px;
+    // font-family: $header-font;
+    // font: normal normal normal normal 16px / 28.8px Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
+    // width:325px;
+    
+    // position: absolute;
+    // display: inline;
+      // line-height: 80%;
+   // margin: 10px 0 -20px;
+    // white-space: nowrap;
+    // margin-top:-47px;
+    // margin-left: -2px;
+    // padding:10px;
+    text-shadow: 2px 2px 1px rgba(56, 47, 43, .5);
+    // font-size: 20px;
+    // position:absolute;
+    border-radius: 4px; 
+    color: white;
+    
+
+    // background-color: rgba(41, 45, 51, .7);
+    // background: #466368;
+    // background: linear-gradient(to right bottom, #648880, #293f50);
+}
+
+.sectionHighlight {
+    // float:left;
+    height: 14px;
+    line-height: 75%;
+    color: white;
+    text-shadow: 2px 1px 0px rgba(255, 255, 255, 1);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    // font-style: italic;
+    font-variant: normal;
+    text-transform: lowercase;
+    letter-spacing: 2px;
+
+    
+
+    border-radius: 4px; 
+    text-shadow: 2px 2px 1px rgba(0, 86, 200, 1);
+    // color: rgba(255, 255, 255, 1);;
+    background-color: rgba(41, 45, 51, .7);
+    background: #466368;
+    background: linear-gradient(to right bottom, #648880, #293f50);
+}
+
+.sectionHighlight2 {
+    //SAM: consistencies!
+    margin: 40px 20px 48px 20px;
+
+    display: block;
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 5px;
+
+    box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 10px 0px inset, rgba(255, 255, 255, 0.0980392) 0px 1px 0px 0px, rgba(0, 0, 0, 0.498039) 0px -1px 0px 0px;
+    box-sizing: border-box;
+
+
+    background: rgba(220, 175, 43, 1) none repeat scroll 0% 0% / auto padding-box border-box;
+    outline: rgb(255, 255, 255) none 0px;
+    // overflow: auto;
+    // padding: 10px 8px;
+    > div.hi {
+        margin-top: 10px;
+        padding: 5px;
+        font-weight: bold;
+        // font-family: $base-font-family;
+        // font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        // font-size: 17px;
+        // margin:10px;
+        // border-radius: 5px;
+        
+        // text-align: center;
+        // padding: 5px 16px 12px 4px;
+        // font-style: italic;
+        
+        // letter-spacing: 0px;
+    }
 }
 
 .style14 { 
@@ -221,14 +331,6 @@ h2 {
     // text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
 }
 
-p, .btwnParHeader, h2, ul {
-    padding: 0px 20px 0px 20px;
-}
-
-p {
-    // line-height: 21.6px;
-    // word-wrap: break-word;
-}
 /**
  * Images
  */
