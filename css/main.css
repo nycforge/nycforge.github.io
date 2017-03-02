@@ -323,10 +323,7 @@ pre {
   font-family: "Squada One", sans-serif;
   font-weight: bolder;
   font-size: 80px;
-  color: #d6d6d6;
-  cursor: default; }
-  .navbar .navbar-brand:hover, .navbar .navbar-brand:focus {
-    color: #ffbbbc; }
+  color: #d6d6d6; }
   .navbar .navbar-brand > span {
     position: absolute;
     margin-top: -24px;
