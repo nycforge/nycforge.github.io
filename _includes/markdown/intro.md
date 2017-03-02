@@ -4,7 +4,7 @@
 
 <div markdown="1" style="display:block;margin-left:auto;margin-right:auto;max-width:540px;padding:5px;">
 
-<img src="img/icon_forge.png" style="float:left;"/>
+<img src="img/icon_forge.png" style="float:left; width:80px; height:80px;"/>
 
 <h2 style="display:block;margin-left:auto;margin-right:auto;max-width:420px;">Minecraft and the Forge Mod Loader</h2>
 

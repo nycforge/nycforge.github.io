@@ -114,7 +114,7 @@ p, .btwnParHeader, h2, h3, ul {
 }
 
 #DIV_2 {
-    max-width: 460px;
+    // max-width: 460px;
     box-sizing: border-box;
     // color: rgb(231, 231, 231);
     float: left;
@@ -146,9 +146,7 @@ p, .btwnParHeader, h2, h3, ul {
 }
 
 #DIV_6 {
-    // position: inherit;
-    // width: 200px;
-    min-width: 300px;
+    min-width: 40px;
     min-height: 50px;
 
     box-sizing: border-box;
