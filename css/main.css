@@ -34,22 +34,17 @@ ul, ol, dl, figure,
 /**
  *SAM
  */
-p, .btwnParHeader, h2, h3, ul {
-  padding: 0px 20px 0px 20px; }
-
 #HeaderImage {
   max-width: 700px;
-  height: 130px;
-  background: repeat url("/img/city/city3.png"); }
+  height: 320px;
+  background: repeat url("/img/city/city4.png"); }
 
 #H1_1 {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   bottom: 0%;
-  word-wrap: break-word;
-  display: inline;
-  font-size: 20px;
+  font-size: 30px;
   min-width: 200px;
   max-width: 600px;
   font-family: "Roboto Slab", serif;
@@ -83,11 +78,11 @@ p, .btwnParHeader, h2, h3, ul {
   text-align: left;
   column-rule-color: #e7e7e7;
   border: 0px none #e7e7e7;
-  outline: #e7e7e7 none 0px; }
+  outline: #e7e7e7 none 0px;
+  padding-top: 10px; }
 
 #H2_3 {
   font-family: "Roboto Slab", serif;
-  margin: 8px 0px 1px 0px;
   text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
   box-sizing: border-box;
   letter-spacing: 1px;
@@ -128,10 +123,13 @@ img {
   margin-right: auto; }
 
 h2 {
-  margin: 24px 0px 20px 0px;
+  margin: 20px 0px 20px 0px;
   font-family: "Roboto Slab", serif;
   text-align: center;
   text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3); }
+
+p, .btwnParHeader, h2, h3, ul {
+  padding: 0px 20px 0px 20px; }
 
 .headerglue {
   padding: 20px 2px 30px 8px; }
@@ -146,6 +144,17 @@ h2 {
   text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.5);
   border-radius: 4px;
   color: white; }
+
+.quirkHeader2 {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin-top: -11px;
+  text-align: center;
+  font-family: "Gloria Hallelujah";
+  font-size: 31px;
+  text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.5);
+  border-radius: 4px;
+  color: #FFF; }
 
 .sectionHighlight {
   height: 14px;
