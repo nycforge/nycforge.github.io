@@ -10,22 +10,18 @@
 
 <div id="DIV_1">
     <div id="DIV_2">
-        <h2 id="H2_3">
-            Quick and Easy Blender Lessons
-        </h2> Taking a course on creating a specific model is great. Gaining the fundamental knowledge needed to model anything is infinitely more valuable. Follow our Learning Flow and start building your own vision today. <a>Check out Introduction to Blender Learning Flow</a>
+        <!-- <h2 id="H2_3">Quick and Easy Blender Lessons</h2> -->
+<!-- <h2 id="H2_3">Moms and Dads of New York City,</h2> -->
+<h3 style="padding:0px 0px 0px 0px">Moms and Dads of New York City,</h3>
+This service is a Minecraft repair service. We're here to take away much of your frustrations. No longer will you have to scour the internet for days on end, only coming up with a few sloppily written forum post failing to give a thorough explaination of the issue you're experiencing.
+
     </div>
     <div id="DIV_6">
         <img src="img/icon_forge.png" alt="" id="IMG_7" />
     </div>
 </div>
 
-<!-- use this for titles outside divs -->
-<!-- <div class="sam-section" markdown="1"> -->
-
-Did you ever have a problem or issue with your setup and spend days searching for solutions? Only to come up with a few sloppily written and ill-explained posts? Here, we're offering a better alternative...
-
-Moms and Dads in New York City,
-This service is a Minecraft repair service. We're here to take away much of your frustrations. No longer will you have to scour the internet for days on end, only coming up with a few sloppily written forum post failing to give a thorough explaination of the issue you're experiencing.
+<!-- Did you ever have a problem or issue with your setup and spend days searching for solutions? Only to come up with a few sloppily written and ill-explained posts? Here, we're offering a better alternative... -->
 
 We'll travel throughout Brooklyn or Manhattan to setup your Minecraft environment to play any mods flawlessly.
 

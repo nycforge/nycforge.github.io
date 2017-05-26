@@ -16,28 +16,12 @@ If you or someone at your home is working with Minecraft, then you already know 
 
 Our mission is to make parents more knowledgeable and confident about configuring and modifying their Minecraft setup at home.
 
-<!-- The ideal setup for most players will have an installation of [Forge](https://files.minecraftforge.net/) - the popular Mod Loader for Minecraft that enables their kids to run any mods that they download from the internet. -->
-
-<!-- The ideal setup for most players: -->
-
-<div class="sectionHighlight2" markdown="1">
-<div class="headerglue"><span class="quirkHeader">Install Mods.</span>
-<span class="sectionHighlight">Improve the Minecraft experience!</span>
-</div>
-<div class="hi" markdown="1">
 The ideal setup for most players uses [Minecraft Forge](https://files.minecraftforge.net/).
 
-{:style="list-style-type:none; font-weight:500; font-style:italic;"}
-+ Minecraft Forge (or just plain Forge) is a very popular Mod Loader for Minecraft that enables their kids to run any mods that they download from the internet.
+Minecraft Forge (or just plain Forge) is a the popular Mod Loader for Minecraft that enables their kids to run any mods that they download from the internet. Mods can then be downloaded from [curse.com](https://mods.curse.com/mc-mods/minecraft) and added to the mod folder (this folder is automatically created when you run Minecraft after installing Forge.)
 
-</div>
-</div>
-
-<i>This site will use Minecraft terminology/language in order to be concise. Check out the [resources for parents]() section which includes links to many other great starting points for people getting into Minecraft.</i>
-
-<!-- </div>
-
-<div class="sam-section" style="margin:10px 50px 40px 50px" markdown="1"> -->
+<!-- <i>This site will use Minecraft terminology/language in order to be concise. Check out the [resources for parents]() section which includes links to many other great starting points for people getting into Minecraft.</i>
+ -->
 
 <hr class="btwnParRule">
 
