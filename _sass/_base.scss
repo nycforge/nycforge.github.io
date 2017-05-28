@@ -39,22 +39,26 @@ ul, ol, dl, figure,
  *SAM
  */
 
-
 #HeaderImage {
     max-width: 700px;
-    height: 320px;
+    height: 220px;
+    padding:30px;
+    // margin-left:auto;
+    // margin-right:auto; 
     // position:relative;
     // display: block;
 
     //SAM: get to the bottom of this clip repeat nonsense!
     background: repeat url("/img/city/city4.png");
-    // background-position: -20px -20px;
+
+    background-position: 0px -50px;
 }
 
 #H1_1 {
     //SAM: experiment
     // position: absolute;
     
+    // padding:20px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -85,10 +89,35 @@ ul, ol, dl, figure,
     outline: rgb(231, 231, 231) none 0px;
 }
 
-#DIV_1 {
-    max-width: 700px;    
+#DIV_INNER_1 {
+    max-width: 600px;    
     // height:180px;
+    margin-left:auto;
+    margin-right:auto;
     padding: 0px 20px 0px 20px;
+    //SAM: check margin-bottom spacing. Keep things consistant with these headers and images!
+    margin-bottom: 20px;
+    // margin: 0px 0px 10px;
+    // overflow: hidden;
+
+    box-sizing: border-box;
+    // color: rgb(231, 231, 231);
+    // float: left;
+
+    column-rule-color: rgb(231, 231, 231);
+    perspective-origin: 510px 174.391px;
+    transform-origin: 510px 174.391px;
+    background: rgba(41, 45, 51, .2) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(231, 231, 231);
+    
+    outline: rgb(231, 231, 231) none 0px;
+    // padding: 40px;
+}
+#DIV_1 {
+    width: 700px;    
+    // height:180px;
+
+    // padding: 0px 20px 0px 20px;
     //SAM: check margin-bottom spacing. Keep things consistant with these headers and images!
     margin-bottom: 20px;
     // margin: 0px 0px 10px;
@@ -105,6 +134,9 @@ ul, ol, dl, figure,
     border: 0px none rgb(231, 231, 231);
     
     outline: rgb(231, 231, 231) none 0px;
+    border: 0;
+    box-shadow: inset 0 -12px 4px -10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0px, 0 -10px inset 0 -12px 4px -10px rgba(0, 0, 0, 0.2);
     // padding: 40px;
 }
 
@@ -148,7 +180,7 @@ ul, ol, dl, figure,
 
     box-sizing: border-box;
     color: rgb(231, 231, 231);
-    float: right;
+    // float: right;
 
     column-rule-color: rgb(231, 231, 231);
     // perspective-origin: 235px 115.5px;

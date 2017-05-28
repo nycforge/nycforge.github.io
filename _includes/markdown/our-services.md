@@ -3,58 +3,66 @@
 ##Services
 
 <!-- <h3 class="btwnParHeader">Schedule a home visit/appointment today!</h3> -->
-
-<div id="HeaderImage">
-<h1 id="H1_1">Schedule a home visit/appointment today!</h1>
-</div>
+<div id="HeaderImage"><h1 id="H1_1">Schedule a home visit/appointment today!</h1></div>
 
 <div id="DIV_1">
-    <div id="DIV_2">
-        <!-- <h2 id="H2_3">Quick and Easy Blender Lessons</h2> -->
+<div id="DIV_INNER_1">
 <!-- <h2 id="H2_3">Moms and Dads of New York City,</h2> -->
-<h3 style="padding:0px 0px 0px 0px">Moms and Dads of New York City,</h3>
-This service is a Minecraft repair service. We're here to take away much of your frustrations. No longer will you have to scour the internet for days on end, only coming up with a few sloppily written forum post failing to give a thorough explaination of the issue you're experiencing.
+<h2 style="padding:20px 0px 0px 0px">Moms and Dads of New York City...</h2>
 
-    </div>
-    <div id="DIV_6">
-        <img src="img/icon_forge.png" alt="" id="IMG_7" />
-    </div>
+<p>We are a Minecraft repair service. We're here to take away much of your frustrations. No longer will you have to scour the internet for days on end, only coming up with a few sloppily written forum post failing to give a thorough explaination of the issue you're experiencing.</p>
+
+<p>This service is helps to enable parents feel more comfortable making modifications to their kids' Minecraft setup. Once their setup is fixed to run modifications they can sit back and relax as their kid plays. The experience of playing modded Minecraft greatly enhances the game. Minecraft modability is one of the game's biggest trademarks; it's what keeps the game alive, bringing many of the more mature players always coming back for more.</p>
+
+<p>We'll travel throughout Brooklyn or Manhattan to setup and maintain a working Minecraft environemnt on your computer, Mac or Windows! Our service will install a flawless Minecraft experience, allowing kids to play the latest and greatest Minecraft mods. Think of us as on-call Minecraft technicians.</p>
+
+<div id="DIV_6">
+    <img src="img/icon_forge.png" alt="" id="IMG_7" />
 </div>
 
+</div>
+</div>
+
+<!-- We'll travel throughout Brooklyn or Manhattan to setup your Minecraft environment to play any mods flawlessly. -->
+
 <!-- Did you ever have a problem or issue with your setup and spend days searching for solutions? Only to come up with a few sloppily written and ill-explained posts? Here, we're offering a better alternative... -->
-
-We'll travel throughout Brooklyn or Manhattan to setup your Minecraft environment to play any mods flawlessly.
-
-We'll travel throughout Brooklyn or Manhattan to setup and maintain a working Minecraft environemnt on your computer, Mac or Windows! Our service will install a flawless Minecraft experience, allowing kids to play the latest and greatest Minecraft mods. Think of us as on-call Minecraft technicians.
-
-<!-- We'll travel throughout Brooklyn or Manhattan to setup your computer (mac or pc) so that it works flawlessly with any Minecraft mods. Think of me as an on-call Minecraft technician. -->
-
-This service is helps to enable parents feel more comfortable making modifications to their kids' Minecraft setup. Once their setup is fixed to run modifications they can sit back and relax as their kid plays. The experience of playing modded Minecraft greatly enhances the game. Minecraft modability is one of the game's biggest trademarks; it's what keeps the game alive, bringing many of the more mature players always coming back for more.
 
 <!-- If your kids aren't getting to experience the luxuries of modded Minecraft - for instance, the advanced [let's plays](https://www.youtube.com/watch?v=DFBkUc6tAPk) or [mod spotlights](https://www.youtube.com/watch?v=bMmto9lZi5I) from direwolf20 - then maybe we can help... -->
 
 <!-- I am available to help with obtaining and installing any applications/software/tools/utilities/necessities relating to Minecraft:  -->
-<hr class="btwnParRule">
+
 <h3 class="btwnParHeader">What software will we install?</h3>
 
-First and foremost, your computer will need [Forge](https://files.minecraftforge.net/) installed, hence this site name ;) Once this is done, you or your kid can go and download mod files to add to the Minecraft mod folder. I'll can't stress the importance of these folder locations enough.
+First and foremost, your computer will need [Forge](https://files.minecraftforge.net/) installed. We'll then go over the basics of how it works. Then we can download any mods from the internet. After that, you or your kid can go and download mod files to add to the Minecraft mod folder.
+
+During your session, feel free to take notes or take a video of these to help you out in the future. If that fails, you can always make another appointment ;-)
+
+
+
+We can help setup any other moded-launchers or modpacks as well. Some examples of these are: [Feed The Beast](https://www.feed-the-beast.com/), [Curse](https://www.curse.com/download), [Crazy Craft](http://test.voidswrath.com/voidlauncher/)
+
+Just email us and let us know if you'll need any other Minecraft related help (mac/pc/ios/android) so that we are more prepared to troubleshoot and solve your problems durinng the schedualed appointment.
+
+<hr class="btwnParRule">
+<h3 class="btwnParHeader">How much will the appointment cost?</h3>
+
+As stated earlier, we encourage parents to tryout this service by providing free apointments to new customers. Your first appointment is always free. 
+
+After the first appointment, each appointment will cost $60. 
+
+<!-- I can't stress the importance of these folder locations enough:
 
 __mac:__ ~/Library/Application Support/minecraft/mods
 
 __windows:__ %appdata%&#92;.minecraft&#92;
 
-
-
 If it helps, I'll make some shortcuts on your desktop so it's more easy to access this mod folder.
-
-We can help setup any other moded-launchers or modpacks as well. Some examples of these are: [Feed The Beast](https://www.feed-the-beast.com/), [Curse](https://www.curse.com/download), [Crazy Craft](http://test.voidswrath.com/voidlauncher/)
 
 Setting up skins and using skin editors is a breeze, we're happy to help with this! We'll also install any cool, community-created Minecraft maps.
 
 Lastly, if java difficulties are causeing you a headache, we'll remedy those too.
 
-_Just email us and let us know if you'll need any other Minecraft related downloads so that we are prepared to install them during your schedualed appointment._
-
+_Just email us and let us know if you'll need any other Minecraft related downloads so that we are prepared to install them during your schedualed appointment._ -->
 
 <!-- * [MCEdit](http://www.mcedit.net/)
 * [minecraftskins.com](http://www.minecraftskins.com/skin-editor/)
@@ -65,34 +73,24 @@ _Just email us and let us know if you'll need any other Minecraft related downlo
 * [planetminecraft.com](http://www.planetminecraft.com/resources/projects/)-->
 
 
-<hr class="btwnParRule">
+<!-- <hr class="btwnParRule">
 <h3 class="btwnParHeader">What will I need prior to my schedualed appointment?</h3>
 
 Not much.. Just a computer and an internet connection. Oh yes, you'll also need Minecraft.
 
 <hr class="btwnParRule">
-<h3 class="btwnParHeader">How much will the appointment cost?</h3>
-
-As stated earlier, we encourage parents to tryout this service by providing free apointments to new customers. Your first appointment is always free. 
-
-After the first appointment, each appointment will cost $60. 
-
-<hr class="btwnParRule">
-<!-- <h3 class="btwnParHeader">How much will the appointment cost?</h3> -->
 
 Minecraft, along with all its mods, are wonderful social tools that help kids hone their minds to create and adapt to our rapidly growing tech world. It proves to be an incredible educational tool and it provides a great segway into more creative disiplines like design, 3d modeling, animation, illustration, and programming. [Why else would Microsoft bought Minecraft for 3 billion!]() 
 
 We hope to help parents appreciate Minecraft and we'd love to better their abilities to improve and maintain a working Minecraft setup. It's important for their kids to download and test out the latest mods.
 
-If you are at all concerned with your child's future and his or her ability to get job opportunities in programming or design, they should be having regular access to a computer, preferably doing something active (not just watching silly youtube videos or memes). In teaching, all too often we see kids that are banned from computer use at home. They type at much slower rates and computer time at school isn't enough to get them up to speed. As they go through grade-school, computers will be more dominate tool they use. Let's give them a headstart. Minecraft is fun and addicting, but it's incredibly stimulating and very engaging for kids to play. It helps them establish social interactions when playing online and it offers an endless world to create/craft/build complex structures and complex machines.
+If you are at all concerned with your child's future and his or her ability to get job opportunities in programming or design, they should be having regular access to a computer, preferably doing something active (not just watching silly youtube videos or memes). In teaching, all too often we see kids that are banned from computer use at home. They type at much slower rates and computer time at school isn't enough to get them up to speed. As they go through grade-school, computers will be more dominate tool they use. Let's give them a headstart. Minecraft is fun and addicting, but it's incredibly stimulating and very engaging for kids to play. It helps them establish social interactions when playing online and it offers an endless world to create/craft/build complex structures and complex machines. -->
 
 <!-- Mavis Beacon?? -->
 
-
-
 <!-- If your son or daughter is a proficient typist and interested in learning how to make their own Minecraft mods (using the forge api and eclipse), I could setup a modding environment on your computer and give them a few beginner lessons in Minecraft coding. -->
 
-<!-- `I couldn't get away sooner because my new well was coming in at Coyote Hills and I had to see about it. That well is now flowing at two thousand barrels and it's paying me an income of five thousand dollars a week. I have two others drilling and I have sixteen producing at Antelope; so, ladies and gentlemen, if I say I'm an oil man, you will agree. Now, you have a great chance here, but bear in mind, you can lose it all if you're not careful. Out of all men that beg for a chance to drill your lots, maybe one in twenty will be oilmen; the rest will be speculators - that's men trying to get between you and the oilmen - to get some of the money that ought by rights come to you. Even if you find one that has money and means to drill, he'll maybe know nothing about drilling and he'll have to hire the job out on contract, and then you're depending on a contractor who'll rush the job through so he can get another contract just as quick as he can. This is... the way that this works.
+<!-- I couldn't get away sooner because my new well was coming in at Coyote Hills and I had to see about it. That well is now flowing at two thousand barrels and it's paying me an income of five thousand dollars a week. I have two others drilling and I have sixteen producing at Antelope; so, ladies and gentlemen, if I say I'm an oil man, you will agree. Now, you have a great chance here, but bear in mind, you can lose it all if you're not careful. Out of all men that beg for a chance to drill your lots, maybe one in twenty will be oilmen; the rest will be speculators - that's men trying to get between you and the oilmen - to get some of the money that ought by rights come to you. Even if you find one that has money and means to drill, he'll maybe know nothing about drilling and he'll have to hire the job out on contract, and then you're depending on a contractor who'll rush the job through so he can get another contract just as quick as he can. This is... the way that this works.
 Man: Well, what is your offer? W-w-we're wasting time.
 [crowd responds: "Yes." "Please."]
 Plainview: I do my own drilling, and the men that work for me work for me. and they're men I know. I make it my business to be there and to see their work. I don't lose my tools in the hole and spend months fishing for them; I don't botch the cementing off and let water in the hole and ruin the whole lease. I'm a family man. I run a family business. This is my son and my partner, H.W. Plainview.
@@ -110,5 +108,3 @@ If at any point they want me to come back and fix additional issues they are hav
 Two sides of a business card. Front side identifying with parent lack of ability to troubleshoot mod/mc issues. Back side catches eye of kid/gamer-youth. Totally minecraft relatable.
 
 WHAT COMES NEXT??? -->
-
-<!-- </div> -->
