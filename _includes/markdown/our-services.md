@@ -12,7 +12,7 @@
 
 <p>We are a Minecraft repair service. We're here to take away much of your frustrations. No longer will you have to scour the internet for days on end, only coming up with a few sloppily written forum post failing to give a thorough explaination of the issue you're experiencing.</p>
 
-<p>This service is helps to enable parents feel more comfortable making modifications to their kids' Minecraft setup. Once their setup is fixed to run modifications they can sit back and relax as their kid plays. The experience of playing modded Minecraft greatly enhances the game. Minecraft modability is one of the game's biggest trademarks; it's what keeps the game alive, bringing many of the more mature players always coming back for more.</p>
+<p>This service is helps to enable parents feel more comfortable making modifications to their kids' Minecraft setup. Once their setup is fixed to run modifications they can sit back and relax as their kid plays. The experience of playing modded Minecraft greatly enhances the game. Minecraft modability is one of the game's biggest trademarks; it's what keeps the game alive, bringing many of the more mature players always coming back for more. Because we want to encourage this level of Minecraft gamesmanship, we do all our <a href="#contact">first appointments free!</a></p>
 
 <p>We'll travel throughout Brooklyn or Manhattan to setup and maintain a working Minecraft environemnt on your computer, Mac or Windows! Our service will install a flawless Minecraft experience, allowing kids to play the latest and greatest Minecraft mods. Think of us as on-call Minecraft technicians.</p>
 
@@ -33,22 +33,29 @@
 
 <h3 class="btwnParHeader">What software will we install?</h3>
 
-First and foremost, your computer will need [Forge](https://files.minecraftforge.net/) installed. We'll then go over the basics of how it works. Then we can download any mods from the internet. After that, you or your kid can go and download mod files to add to the Minecraft mod folder.
+First and foremost, we will install [Forge](https://files.minecraftforge.net/). We'll then go over the basics of how it works. Then we can download any mods from the internet. After that, you or your kid can go and download mod files to add to the Minecraft mod folder.
+
+<!-- We can help setup any other moded-launchers or modpacks as well. Some examples of these are:
+
++ [Feed The Beast](https://www.feed-the-beast.com/)
++ [Curse](https://www.curse.com/download)
++ [Crazy Craft](http://test.voidswrath.com/voidlauncher/) -->
+
+If your kid plays Minecraft for ios/android and is interested in modifying their game.
 
 During your session, feel free to take notes or take a video of these to help you out in the future. If that fails, you can always make another appointment ;-)
 
-
-
-We can help setup any other moded-launchers or modpacks as well. Some examples of these are: [Feed The Beast](https://www.feed-the-beast.com/), [Curse](https://www.curse.com/download), [Crazy Craft](http://test.voidswrath.com/voidlauncher/)
-
-Just email us and let us know if you'll need any other Minecraft related help (mac/pc/ios/android) so that we are more prepared to troubleshoot and solve your problems durinng the schedualed appointment.
+Just email us at [nycforge@gmail.com](nycforge@gmail.com) and let us know if you'll need any other Minecraft related help so that we are more prepared to troubleshoot and solve your problems during the schedualed appointment.
 
 <hr class="btwnParRule">
 <h3 class="btwnParHeader">How much will the appointment cost?</h3>
 
-As stated earlier, we encourage parents to tryout this service by providing free apointments to new customers. Your first appointment is always free. 
+As stated earlier, we encourage parents to tryout this service by providing free apointments to new customers. Your first appointment is always free. After the first appointment, each appointment will cost $60. 
 
-After the first appointment, each appointment will cost $60. 
+<hr class="btwnParRule">
+<h3 class="btwnParHeader">Schedule an appointment</h3>
+
+To schedule your appointment, please send an email [nycforge@gmail.com](nycforge@gmail.com). Be sure to include a brief description of the issues at hand.
 
 <!-- I can't stress the importance of these folder locations enough:
 
