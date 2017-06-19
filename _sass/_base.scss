@@ -40,36 +40,49 @@ ul, ol, dl, figure,
  */
 
 #HeaderImage {
-    max-width: 700px;
-    height: 220px;
-    padding:30px;
-    // margin-left:auto;
-    // margin-right:auto; 
+    // max-width: 600px;
+    height: 290px;
+    // padding:30px;
+    margin-left:auto;
+    margin-right:auto; 
     // position:relative;
     // display: block;
 
     //SAM: get to the bottom of this clip repeat nonsense!
-    background: repeat url("/img/city/city4.png");
+    background: repeat url("/img/city/city.png");
+    background-position: -450px -1010px;
+     -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5x;
+    margin-left:20px;
+    margin-right:20px;
+    border-radius: 4px; 
 
-    background-position: 0px -50px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 1), 0 0 20px rgba(0, 0, 0, 0.1) inset;
+    // margin: 20px;
+    // padding: 0px 20px 0px 20px;    
 }
 
 #H1_1 {
     //SAM: experiment
-    // position: absolute;
-    
-    // padding:20px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    position: absolute;
+    top:-20%;
 
-    bottom:0%;
+    margin-top: 80px;
+    padding:8px;
+
+    // min-width: 200px;
+    // max-width: 600px;
+    // margin-left: auto;
+    // margin-right: auto;
+
+    text-align: center;
+
     // word-wrap: break-word;
     // display:inline;
     font-size: 30px;
     
-    min-width: 200px;
-    max-width: 600px;
+
     
     font-family: $header-font;
     text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
@@ -87,6 +100,33 @@ ul, ol, dl, figure,
     border: 0px none rgb(231, 231, 231);
     // margin: 0px 383px 50px;
     outline: rgb(231, 231, 231) none 0px;
+}
+
+#DIV_1 {
+    max-width: 700px;    
+    // height:180px;
+
+    // padding: 0px 20px 0px 20px;
+    //SAM: check margin-bottom spacing. Keep things consistant with these headers and images!
+    margin-bottom: 20px;
+    // margin: 0px 0px 10px;
+    // overflow: hidden;
+
+    box-sizing: border-box;
+    // color: rgb(231, 231, 231);
+    float: left;
+
+    column-rule-color: rgb(231, 231, 231);
+    perspective-origin: 510px 174.391px;
+    transform-origin: 510px 174.391px;
+    // background: rgba(41, 45, 51, .2) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(231, 231, 231);
+    
+    outline: rgb(231, 231, 231) none 0px;
+    border: 0;
+    box-shadow: inset 0 -12px 4px -10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0px, 0 -10px inset 0 -12px 4px -10px rgba(0, 0, 0, 0.2);
+    // padding: 40px;
 }
 
 #DIV_INNER_1 {
@@ -144,48 +184,6 @@ ul, ol, dl, figure,
         }
     }
 }
-#DIV_1 {
-    max-width: 700px;    
-    // height:180px;
-
-    // padding: 0px 20px 0px 20px;
-    //SAM: check margin-bottom spacing. Keep things consistant with these headers and images!
-    margin-bottom: 20px;
-    // margin: 0px 0px 10px;
-    // overflow: hidden;
-
-    box-sizing: border-box;
-    // color: rgb(231, 231, 231);
-    float: left;
-
-    column-rule-color: rgb(231, 231, 231);
-    perspective-origin: 510px 174.391px;
-    transform-origin: 510px 174.391px;
-    background: rgba(41, 45, 51, .2) none repeat scroll 0% 0% / auto padding-box border-box;
-    border: 0px none rgb(231, 231, 231);
-    
-    outline: rgb(231, 231, 231) none 0px;
-    border: 0;
-    box-shadow: inset 0 -12px 4px -10px rgba(0, 0, 0, 0.2);
-    box-shadow: 0 0px, 0 -10px inset 0 -12px 4px -10px rgba(0, 0, 0, 0.2);
-    // padding: 40px;
-}
-
-#DIV_2 {
-    // max-width: 460px;
-    box-sizing: border-box;
-    // color: rgb(231, 231, 231);
-    float: left;
-    position: relative;
-    text-align: left;
-    column-rule-color: rgb(231, 231, 231);
-    // perspective-origin: 235px 134.391px;
-    // transform-origin: 235px 134.391px;
-    border: 0px none rgb(231, 231, 231);
-    outline: rgb(231, 231, 231) none 0px;
-    padding-top:10px;
-}
-
 
 #H2_3 {
     font-family: $header-font;
@@ -407,7 +405,6 @@ p, .btwnParHeader, h2, h3, ul {
     // font-weight: bold;    
     // color: #000000;
     // font-family: $header-font;
-    // text-align: center;
     // text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
 }
 
