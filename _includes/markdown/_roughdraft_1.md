@@ -116,7 +116,7 @@ __windows:__ %appdata%&#92;.minecraft&#92;
 
 If it helps, I'll make some shortcuts on your desktop so it's more easy to access this mod folder.
 
-We can help setup any other moded-launchers or modpacks as well. Some examples of these are: [Feed The Beast](https://www.feed-the-beast.com/), [Curse](https://www.curse.com/download), [Crazy Craft](http://test.voidswrath.com/voidlauncher/)
+We can help setup any other moded-launchers or modpacks as well. Some examples of these are: [Feed The Beast](https://www.feed-the-beast.com/), [Curse](https://www.curse.com/download), [Crazy Craft](https://test.voidswrath.com/voidlauncher/)
 
 Setting up skins and using skin editors is a breeze, we're happy to help with this! We'll also install any cool, community-created Minecraft maps.
 
@@ -125,13 +125,13 @@ Lastly, if java difficulties are causeing you a headache, we'll remedy those too
 _Just email us and let us know if you'll need any other Minecraft related downloads so that we are prepared to install them during your schedualed appointment._
 
 
-<!-- * [MCEdit](http://www.mcedit.net/)
-* [minecraftskins.com](http://www.minecraftskins.com/skin-editor/)
-* [minecraftskins.net](http://www.minecraftskins.net/skineditor)
+<!-- * [MCEdit](https://www.mcedit.net/)
+* [minecraftskins.com](https://www.minecraftskins.com/skin-editor/)
+* [minecraftskins.net](https://www.minecraftskins.net/skineditor)
 * [minecraft.novaskin.me](https://minecraft.novaskin.me/)
-* [planetminecraft.com](http://www.planetminecraft.com/resources/projects/)
-* [minecraftsix.com](http://minecraftsix.com/category/minecraft-maps/)
-* [planetminecraft.com](http://www.planetminecraft.com/resources/projects/)-->
+* [planetminecraft.com](https://www.planetminecraft.com/resources/projects/)
+* [minecraftsix.com](https://minecraftsix.com/category/minecraft-maps/)
+* [planetminecraft.com](https://www.planetminecraft.com/resources/projects/)-->
 
 
 <hr class="btwnParRule">

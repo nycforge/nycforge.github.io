@@ -44,7 +44,7 @@ ul, ol, dl, figure,
     height: 290px;
     // padding:30px;
     margin-left:auto;
-    margin-right:auto; 
+    margin-right:auto;
     // position:relative;
     // display: block;
 
@@ -56,11 +56,11 @@ ul, ol, dl, figure,
     border-radius: 5x;
     margin-left:20px;
     margin-right:20px;
-    border-radius: 4px; 
+    border-radius: 4px;
 
       box-shadow: 0 1px 4px rgba(0, 0, 0, 1), 0 0 20px rgba(0, 0, 0, 0.1) inset;
     // margin: 20px;
-    // padding: 0px 20px 0px 20px;    
+    // padding: 0px 20px 0px 20px;
 }
 
 #H1_1 {
@@ -81,9 +81,9 @@ ul, ol, dl, figure,
     // word-wrap: break-word;
     // display:inline;
     font-size: 30px;
-    
 
-    
+
+
     font-family: $header-font;
     text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);
     background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0% / auto padding-box border-box;
@@ -103,7 +103,7 @@ ul, ol, dl, figure,
 }
 
 #DIV_1 {
-    max-width: 700px;    
+    max-width: 700px;
     // height:180px;
 
     // padding: 0px 20px 0px 20px;
@@ -121,7 +121,7 @@ ul, ol, dl, figure,
     transform-origin: 510px 174.391px;
     // background: rgba(41, 45, 51, .2) none repeat scroll 0% 0% / auto padding-box border-box;
     border: 0px none rgb(231, 231, 231);
-    
+
     outline: rgb(231, 231, 231) none 0px;
     border: 0;
     box-shadow: inset 0 -12px 4px -10px rgba(0, 0, 0, 0.2);
@@ -130,11 +130,11 @@ ul, ol, dl, figure,
 }
 
 #DIV_INNER_1 {
-    // max-width: 600px;    
+    // max-width: 600px;
     // height:180px;
     margin-left:20px;
     margin-right:20px;
-    border-radius: 4px; 
+    border-radius: 4px;
     // margin: 20px;
     padding: 0px 20px 0px 20px;
     //SAM: check margin-bottom spacing. Keep things consistant with these headers and images!
@@ -151,7 +151,7 @@ ul, ol, dl, figure,
     transform-origin: 510px 174.391px;
     background: rgba(41, 45, 51, .2) none repeat scroll 0% 0% / auto padding-box border-box;
     border: 0px none rgb(231, 231, 231);
-    
+
     outline: rgb(231, 231, 231) none 0px;
     // padding: 40px;
     a {
@@ -172,7 +172,7 @@ ul, ol, dl, figure,
         color: rgb(231, 231, 231);
         // height: 106px;
         letter-spacing: 1px;
-        
+
         &:visited {
             // color: darken($brand-color, 15%);
         }
@@ -195,7 +195,7 @@ ul, ol, dl, figure,
     letter-spacing: 1px;
     text-align: left;
     text-transform: uppercase;
-    
+
     column-rule-color: rgb(231, 231, 231);
     // perspective-origin: 225px 47px;
     // transform-origin: 225px 47px;
@@ -222,19 +222,19 @@ ul, ol, dl, figure,
     //SAM: experiment
 
     position:absolute;
-    // top: 0;  
-    bottom: 0;  
-    // left: 0;  
-    right: 0;  
+    // top: 0;
+    bottom: 0;
+    // left: 0;
+    right: 0;
 
     // margin-top: 10px;
     margin-right:-20px;
-    max-height: 98%;  
-    max-width: 98%; 
+    max-height: 98%;
+    max-width: 98%;
     // width: auto;
     // height: auto;
-    position: absolute;  
-    
+    position: absolute;
+
     // width: 120px;
     // height: 120px;
     background-color: #FFF;
@@ -288,7 +288,7 @@ p, .btwnParHeader, h2, h3, ul {
     // font-family: $header-font;
     // font: normal normal normal normal 16px / 28.8px Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
     // width:325px;
-    
+
     // position: absolute;
     // display: inline;
       // line-height: 80%;
@@ -300,9 +300,9 @@ p, .btwnParHeader, h2, h3, ul {
     text-shadow: 2px 2px 1px rgba(56, 47, 43, .5);
     // font-size: 20px;
     // position:absolute;
-    border-radius: 4px; 
+    border-radius: 4px;
     color: white;
-    
+
 
     // background-color: rgba(41, 45, 51, .7);
     // background: #466368;
@@ -322,7 +322,7 @@ p, .btwnParHeader, h2, h3, ul {
 
     text-shadow: 2px 2px 1px rgba(56, 47, 43, .5);
 
-    border-radius: 4px; 
+    border-radius: 4px;
     color: #FFF;
 
 }
@@ -340,9 +340,9 @@ p, .btwnParHeader, h2, h3, ul {
     text-transform: lowercase;
     letter-spacing: 2px;
 
-    
 
-    border-radius: 4px; 
+
+    border-radius: 4px;
     text-shadow: 2px 2px 1px rgba(0, 86, 200, 1);
     // color: rgba(255, 255, 255, 1);;
     background-color: rgba(41, 45, 51, .7);
@@ -375,22 +375,22 @@ p, .btwnParHeader, h2, h3, ul {
         // font-size: 17px;
         // margin:10px;
         // border-radius: 5px;
-        
+
         // text-align: center;
         // padding: 5px 16px 12px 4px;
         // font-style: italic;
-        
+
         // letter-spacing: 0px;
     }
 }
 
-.style14 { 
-  border: 0; 
-  height: 1px; 
+.style14 {
+  border: 0;
+  height: 1px;
   background-image: -webkit-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone);
   background-image: -moz-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone);
   background-image: -ms-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone);
-  background-image: -o-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone); 
+  background-image: -o-linear-gradient(left, $bg_lines_tone, #8c8b8b, $bg_lines_tone);
 }
 
 .btwnParRule {
@@ -402,7 +402,7 @@ p, .btwnParHeader, h2, h3, ul {
 
 .btwnParHeader {
     margin: 24px 0px 15px 0px;
-    // font-weight: bold;    
+    // font-weight: bold;
     // color: #000000;
     // font-family: $header-font;
     // text-shadow: 2px 2px 1px rgba(56, 47, 43, 0.3);

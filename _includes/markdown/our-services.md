@@ -43,7 +43,7 @@ First and foremost, we will install [Forge](https://files.minecraftforge.net/). 
 
 + [Feed The Beast](https://www.feed-the-beast.com/)
 + [Curse](https://www.curse.com/download)
-+ [Crazy Craft](http://test.voidswrath.com/voidlauncher/) -->
++ [Crazy Craft](https://test.voidswrath.com/voidlauncher/) -->
 
 If your kid plays Minecraft for ios/android and is interested in modifying their game.
 
@@ -75,13 +75,13 @@ Lastly, if java difficulties are causeing you a headache, we'll remedy those too
 
 _Just email us and let us know if you'll need any other Minecraft related downloads so that we are prepared to install them during your schedualed appointment._ -->
 
-<!-- * [MCEdit](http://www.mcedit.net/)
-* [minecraftskins.com](http://www.minecraftskins.com/skin-editor/)
-* [minecraftskins.net](http://www.minecraftskins.net/skineditor)
+<!-- * [MCEdit](https://www.mcedit.net/)
+* [minecraftskins.com](https://www.minecraftskins.com/skin-editor/)
+* [minecraftskins.net](https://www.minecraftskins.net/skineditor)
 * [minecraft.novaskin.me](https://minecraft.novaskin.me/)
-* [planetminecraft.com](http://www.planetminecraft.com/resources/projects/)
-* [minecraftsix.com](http://minecraftsix.com/category/minecraft-maps/)
-* [planetminecraft.com](http://www.planetminecraft.com/resources/projects/)-->
+* [planetminecraft.com](https://www.planetminecraft.com/resources/projects/)
+* [minecraftsix.com](https://minecraftsix.com/category/minecraft-maps/)
+* [planetminecraft.com](https://www.planetminecraft.com/resources/projects/)-->
 
 
 <!-- <hr class="btwnParRule">

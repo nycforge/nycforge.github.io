@@ -1,7 +1,7 @@
 ## nycforge
 
 style copied from:
-http://slade.mancubus.net/index.php?page=about
+https://slade.mancubus.net/index.php?page=about
 
 Business cards
 
